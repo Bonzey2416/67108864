@@ -3,10 +3,10 @@
 
 Play:
 
-[16384](https://true16384.github.io.github.io/16384/)
+[16384](https://true16384.github.io/16384/)
 
-[32768](https://true16384.github.io.github.io/32768/)
+[32768](https://true16384.github.io/32768/)
 
-[65536](https://true16384.github.io.github.io/65536/)
+[65536](https://true16384.github.io/65536/)
 
-[67108864](https://true16384.github.io.github.io/67108864/)
+[67108864](https://true16384.github.io/67108864/)
